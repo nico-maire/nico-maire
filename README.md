@@ -6,7 +6,7 @@
 
 <p>I'm a Computer Science student at UC3M (soon at Università di Bologna!) with a passion for AI, Cybersecurity, and building innovative solutions. From low-level systems in C to advanced AI automation with VIA, I love tackling complex problems.</p>
 
-<a href="https://nico-mair.github.io" style="background-color:#007BFF; color:white; padding: 12px 25px; border-radius: 8px; text-decoration: none; font-weight: bold; font-size: 16px; margin: 20px 0; display: inline-block;">
+<a href="https://nico-maire.github.io" style="background-color:#007BFF; color:white; padding: 12px 25px; border-radius: 8px; text-decoration: none; font-weight: bold; font-size: 16px; margin: 20px 0; display: inline-block;">
   🚀 Explore My Full Interactive Portfolio
 </a>
 
@@ -28,8 +28,8 @@
 </p>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=nico-mair&show_icons=true&theme=tokyonight" alt="Nico's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nico-mair&layout=compact&theme=tokyonight" alt="Nico's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nico-maire&show_icons=true&theme=tokyonight" alt="Nico's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nico-maire&layout=compact&theme=tokyonight" alt="Nico's Top Languages" />
 </p>
 
 </div>
