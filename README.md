@@ -1,41 +1,58 @@
-# Hola 👋, soy Nico Maibra
+<table border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td valign="top">
+      <img src="https://github.com/${github.avatar_url}" width="150px" style="border-radius: 50%;" alt="Profile Picture"/>
+    </td>
+    <td valign="top">
+      <h1>Nico Maibra</h1>
+      <h3>Ingeniero de Software | Especialista en IA & Ciberseguridad</h3>
+      <p>
+        <a href="https://www.linkedin.com/in/nicol%C3%A1s-maire-bravo/" target="_blank">
+          <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+        </a>
+        <a href="mailto:nico.maibra@gmail.com">
+          <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+        </a>
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/English-C1_Certified-blue?style=for-the-badge" alt="English"/>
+        <img src="https://img.shields.io/badge/Chinese-HSK3_Certified-green?style=for-the-badge" alt="Chinese"/>
+        <img src="https://img.shields.io/badge/Spanish-Native-red?style=for-the-badge" alt="Spanish"/>
+      </p>
+    </td>
+  </tr>
+</table>
 
-Soy un estudiante de Ingeniería Informática en la **UC3M** (próximamente en la **Università di Bologna**) con un enfoque dual: **Inteligencia Artificial** y **Ciberseguridad**.
+## 🚀 Mi Stack Tecnológico
 
-Actualmente estoy construyendo **[VIA](https://www.linkedin.com/in/tu-perfil-linkedin/)**, un proyecto de automatización inteligente de procesos (IPA) donde aplico modelos de IA (Hugging Face, LLMs) para resolver cuellos de botella empresariales.
+<details>
+  <summary><b>🤖 IA & Automatización</b></summary>
+  <br/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
+  <img src="https://img.shields.io/badge/Celonis-00A1E0?style=for-the-badge&logo=celonis&logoColor=white" alt="Celonis"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
+</details>
 
-Mi pasión es entender los sistemas a bajo nivel, desde la gestión de memoria en `C` y la criptografía, hasta el funcionamiento interno de los LLMs para crear herramientas más seguras y eficientes.
+<details>
+  <summary><b>🛡️ Ciberseguridad & Sistemas</b></summary>
+  <br/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/Criptografía-4B0082?style=for-the-badge&logo=letsencrypt&logoColor=white" alt="Criptografía"/>
+  <img src="https://img.shields.io/badge/POSIX-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="POSIX"/>
+  <img src="https://img.shields.io/badge/Pthreads-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="Pthreads"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+</details>
 
----
-
-### 🚀 Mi Stack Tecnológico
-
-| Área | Tecnologías |
-| :--- | :--- |
-| **IA & Automatización** | Python, n8n, Hugging Face, Prompt Engineering, Celonis |
-| **Ciberseguridad** | Criptografía Híbrida (AES, RSA), Desarrollo Seguro |
-| **Sistemas & Backend** | C, C++, Python (FastAPI), Java |
-| **Frontend & Móvil** | JavaScript, React, Flutter, HTML5, CSS3 |
-| **Bases de Datos & DevOps** | Git, GitHub Actions, Docker, PostgreSQL, MySQL |
-
----
-
-### 🧠 Proyectos Públicos Destacados
-
-Aquí están las pruebas públicas de mis habilidades. *(Te recomiendo encarecidamente "Pinear" estos 4 repositorios en tu perfil)*
-
-1.  **🤖 Bypass de Detectores de IA (Python)**
-    * Herramienta que reescribe texto generado por LLMs para ser indetectable, basándose en un análisis de la generación de tokens y distribuciones de probabilidad.
-2.  **🔐 Aplicación de Criptografía Híbrida (Python)**
-    * CLI Cliente-Servidor para transferencia segura de archivos usando cifrado híbrido (AES-256-GCM y RSA-2048) y KDFs (PBKDF2-HMAC-SHA256).
-3.  **🏭 Simulación de Fábrica Multi-hilo (C / Pthreads)**
-    * Resolución del problema Productor-Consumidor con buffers circulares, mutexes, variables de condición y semáforos POSIX.
-4.  **⚡ Programación de Alto Rendimiento (C++23 / Ray Tracing)**
-    * Optimización de una aplicación de *Ray Tracing* comparando estrategias de memoria (Structure of Arrays vs. Array of Structures).
-
----
-
-### 📫 Contacto
-
-* **LinkedIn:** `https://linkedin.com/in/tu-perfil-linkedin` (¡Crea una URL personalizada!)
-* **Email:** `tu-email-profesional@gmail.com`
+<details>
+  <summary><b>🌐 Desarrollo Web & Móvil</b></summary>
+  <br/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+</details>
