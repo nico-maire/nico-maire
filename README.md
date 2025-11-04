@@ -13,14 +13,11 @@
 <i>"Your idea. Your code. Your reality"</i>
 </blockquote>
 
-<div align="center" style="margin: 20px 0;">
-  <p style="font-size: 16px; color: #aaa; margin-bottom: 10px;">Mis proyectos, galerías de imágenes y detalles técnicos están aquí:</p>
-  <a href="https://nico-maire.github.io" style="background-color:#007BFF; color:white; padding: 14px 28px; border-radius: 10px; text-decoration: none; font-weight: bold; font-size: 18px; border: 2px solid #0056b3; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
-    🚀 Ver mi Portfolio Interactivo 🚀
+<div align="center" style="margin: 15px 0;">
+  <a href="https://nico-maire.github.io">
+    <img src="assets/button.png" width="300" alt="Ver mi Portfolio Interactivo"/>
   </a>
 </div>
-
-<hr>
 
 <h2 align="center">📫 Connect with Me</h2>
 <table align="center" style="border: none; width: auto;">
@@ -81,30 +78,41 @@
     <td style="border: none; padding: 10px;" align="center"><img src="assets/c.png" width="50" alt="C"></td>
     <td style="border: none; padding: 10px;" align="center"><img src="assets/cpp.png" width="50" alt="C++"></td>
     <td style="border: none; padding: 10px;" align="center"><img src="assets/javascript.png" width="50" alt="JavaScript"></td>
-    <td style="border: none; padding: 10px;" align="center"><img src="assets/shell.png" width="50" alt="Shell"></td>
+    <td style="border: none; padding: 10px;" align="center"><img src="assets/react.png" width="50" alt="React"></td>
     <td style="border: none; padding: 10px;" align="center"><img src="assets/rstudio.png" width="50" alt="R Studio"></td>
+  </tr>
+  <tr style="border: none;">
+    <td colspan="6" align="center" style="border: none;"><h3>Web & Bases de Datos</h3></td>
+  </tr>
+  <tr style="border: none;">
+    <td style="border: none; padding: 10px;" align="center"></td>
+    <td style="border: none; padding: 10px;" align="center"><img src="assets/html.png" width="50" alt="HTML"></td>
+    <td style="border: none; padding: 10px;" align="center"><img src="assets/css.png" width="50" alt="CSS"></td>
+    <td style="border: none; padding: 10px;" align="center"><img src="assets/mysql.png" width="50" alt="MySQL"></td>
+    <td style="border: none; padding: 10px;" align="center"><img src="assets/postgresql.png" width="50" alt="PostgreSQL"></td>
+    <td style="border: none; padding: 10px;" align="center"></td>
   </tr>
   <tr style="border: none;">
     <td colspan="6" align="center" style="border: none;"><h3>Herramientas & Frameworks</h3></td>
   </tr>
   <tr style="border: none;">
-    <td style="border: none; padding: 10px;" align="center"><img src="assets/react.png" width="50" alt="React"></td>
-    <td style="border: none; padding: 10px;" align="center"><img src="assets/flutter.png" width="50" alt="Flutter"></td>
-    <td style="border: none; padding: 10px;" align="center"><img src="assets/fastapi.png" width="50" alt="FastAPI" style="background-color: white; border-radius: 50%; padding: 5px;"></td>
-    <td style="border: none; padding: 10px;" align="center"><img src="assets/n8n.png" width="50" alt="n8n" style="background-color: white; border-radius: 50%; padding: 5px;"></td>
+    <td style="border: none; padding: 10px;" align="center"></td>
     <td style="border: none; padding: 10px;" align="center"><img src="assets/huggingface.png" width="50" alt="Hugging Face"></td>
+    <td style="border: none; padding: 10px;" align="center"><img src="assets/n8n.png" width="50" alt="n8n" style="background-color: white; border-radius: 10px; padding: 5px;"></td>
+    <td style="border: none; padding: 10px;" align="center"><img src="assets/fastapi.png" width="50" alt="FastAPI" style="background-color: white; border-radius: 10px; padding: 5px;"></td>
+    <td style="border: none; padding: 10px;" align="center"><img src="assets/flutter.png" width="50" alt="Flutter"></td>
     <td style="border: none; padding: 10px;" align="center"><img src="assets/celonis.png" width="50" alt="Celonis"></td>
   </tr>
   <tr style="border: none;">
-    <td colspan="6" align="center" style="border: none;"><h3>Sistemas, DevOps & Web</h3></td>
+    <td colspan="6" align="center" style="border: none;"><h3>Sistemas & DevOps</h3></td>
   </tr>
   <tr style="border: none;">
+    <td style="border: none; padding: 10px;" align="center"></td>
     <td style="border: none; padding: 10px;" align="center"><img src="assets/git.png" width="50" alt="Git"></td>
-    <td style="border: none; padding: 10px;" align="center"><img src="assets/github.png" width="50" alt="GitHub" style="background-color: white; border-radius: 50%; padding: 5px;"></td>
-    <td style="border: none; padding: 10px;" align="center"><img src="assets/docker.png" width="50" alt="Docker"></td>
+    <td style="border: none; padding: 10px;" align="center"><img src="assets/github.png" width="50" alt="GitHub" style="background-color: white; border-radius: 10px; padding: 5px;"></td>
     <td style="border: none; padding: 10px;" align="center"><img src="assets/linux.png" width="50" alt="Linux"></td>
-    <td style="border: none; padding: 10px;" align="center"><img src="assets/html.png" width="50" alt="HTML"></td>
-    <td style="border: none; padding: 10px;" align="center"><img src="assets/css.png" width="50" alt="CSS"></td>
+    <td style="border: none; padding: 10px;" align="center"><img src="assets/docker.png" width="50" alt="Docker"></td>
+    <td style="border: none; padding: 10px;" align="center"></td>
   </tr>
 </table>
 
