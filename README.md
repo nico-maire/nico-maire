@@ -16,44 +16,92 @@
 <hr>
 
 <h2 align="center">📫 Connect with Me</h2>
-<div align="center">
-  <a href="https://linkedin.com/in/nico-maire">
-    <img src="assets/linkedin.png" width="50px" style="margin: 10px;" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:tu-email-profesional@gmail.com">
-    <img src="assets/email.png" width="50px" style="margin: 10px;" alt="Email"/>
-  </a>
-</div>
+<table align="center" style="border: none;">
+  <tr>
+    <td>
+      <a href="https://linkedin.com/in/nico-maire" style="text-decoration: none; color: inherit; display: flex; align-items: center;">
+        <img src="assets/linkedin.png" width="40px" alt="LinkedIn"/>
+        <span style="text-align: left; padding-left: 10px;"><b>LinkedIn</b><br/><code>/in/nico-maire</code></span>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="mailto:tu-email-profesional@gmail.com" style="text-decoration: none; color: inherit; display: flex; align-items: center;">
+        <img src="assets/email.png" width="40px" alt="Email"/>
+        <span style="text-align: left; padding-left: 10px;"><b>Email</b><br/><code>tu-email-profesional@gmail.com</code></span>
+      </a>
+    </td>
+  </tr>
+</table>
 
 <h2 align="center">🌎 Languages</h2>
-<div align="center">
-  <img src="assets/flag_es.png" width="50px" style="margin: 10px;" alt="Spanish"/>
-  <img src="assets/flag_uk.png" width="50px" style="margin: 10px;" alt="English"/>
-  <img src="assets/flag_cn.png" width="50px" style="margin: 10px;" alt="Chinese"/>
-  <img src="assets/flag_fr.png" width="50px" style="margin: 10px;" alt="French"/>
-  <img src="assets/flag_it.png" width="50px" style="margin: 10px;" alt="Italian"/>
-</div>
+<table width="100%" style="border: none;">
+  <tr>
+    <td width="20%" align="center">
+      <img src="assets/flag_es.png" width="50px" alt="Spanish"/><br/>
+      <b>Español</b><br/>
+      <i>Nativo</i>
+    </td>
+    <td width="20%" align="center">
+      <img src="assets/flag_uk.png" width="50px" alt="English"/><br/>
+      <b>Inglés</b><br/>
+      <i>C1 Certified</i>
+    </td>
+    <td width="20%" align="center">
+      <img src="assets/flag_cn.png" width="50px" alt="Chinese"/><br/>
+      <b>Chino</b><br/>
+      <i>HSK3 / Cursando HSK5</i>
+    </td>
+    <td width="20%" align="center">
+      <img src="assets/flag_fr.png" width="50px" alt="French"/><br/>
+      <b>Francés</b><br/>
+      <i>Nivel Medio</i>
+    </td>
+    <td width="20%" align="center">
+      <img src="assets/flag_it.png" width="50px" alt="Italian"/><br/>
+      <b>Italiano</b><br/>
+      <i>Nivel Medio</i>
+    </td>
+  </tr>
+</table>
 
 <h2 align="center">💻 Skills</h2>
-<div align="center" style="line-height: 2.5;">
-  <img src="assets/python.png" width="50px" style="margin: 10px;" alt="Python"/>
-  <img src="assets/c.png" width="50px" style="margin: 10px;" alt="C"/>
-  <img src="assets/cpp.png" width="50px" style="margin: 10px;" alt="C++"/>
-  <img src="assets/javascript.png" width="50px" style="margin: 10px;" alt="JavaScript"/>
-  <img src="assets/react.png" width="50px" style="margin: 10px;" alt="React"/>
-  <br/>
-  <img src="assets/git.png" width="50px" style="margin: 10px;" alt="Git"/>
-  <img src="assets/github.png" width="50px" style="margin: 10px;" alt="GitHub"/>
-  <img src="assets/linux.png" width="50px" style="margin: 10px;" alt="Linux"/>
-  <img src="assets/html.png" width="50px" style="margin: 10px;" alt="HTML"/>
-  <br/>
-  <img src="assets/css.png" width="50px" style="margin: 10px;" alt="CSS"/>
-  <img src="assets/huggingface.png" width="50px" style="margin: 10px;" alt="Hugging Face"/>
-  <img src="assets/flutter.png" width="50px" style="margin: 10px;" alt="Flutter"/>
-  <img src="assets/n8n.png" width="50px" style="margin: 10px;" alt="n8n"/>
-  <img src="assets/fastapi.png" width="50px" style="margin: 10px;" alt="FastAPI"/>
-  <img src="assets/celonis.png" width="50px" style="margin: 10px;" alt="Celonis"/>
-</div>
+<table width="100%" style="border: none;">
+  <tr>
+    <td colspan="6" align="center"><h3>Lenguajes</h3></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="assets/python.png" style="width: 50px; margin: 10px;" alt="Python"/></td>
+    <td align="center"><img src="assets/c.png" style="width: 50px; margin: 10px;" alt="C"/></td>
+    <td align="center"><img src="assets/cpp.png" style="width: 50px; margin: 10px;" alt="C++"/></td>
+    <td align="center"><img src="assets/javascript.png" style="width: 50px; margin: 10px;" alt="JavaScript"/></td>
+    <td align="center"><img src="assets/shell.png" style="width: 50px; margin: 10px;" alt="Shell"/></td>
+    <td align="center"><img src="assets/rstudio.png" style="width: 50px; margin: 10px;" alt="R Studio"/></td>
+  </tr>
+  <tr>
+    <td colspan="6" align="center"><h3>Herramientas & Frameworks</h3></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="assets/react.png" style="width: 50px; margin: 10px;" alt="React"/></td>
+    <td align="center"><img src="assets/flutter.png" style="width: 50px; margin: 10px;" alt="Flutter"/></td>
+    <td align="center"><img src="assets/fastapi.png" style="background-color: white; border-radius: 50%; width: 50px; margin: 10px;" alt="FastAPI"/></td>
+    <td align="center"><img src="assets/n8n.png" style="background-color: white; border-radius: 50%; width: 50px; margin: 10px;" alt="n8n"/></td>
+    <td align="center"><img src="assets/huggingface.png" style="width: 50px; margin: 10px;" alt="Hugging Face"/></td>
+    <td align="center"><img src="assets/celonis.png" style="width: 50px; margin: 10px;" alt="Celonis"/></td>
+  </tr>
+  <tr>
+    <td colspan="6" align="center"><h3>Sistemas, DevOps & Web</h3></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="assets/git.png" style="width: 50px; margin: 10px;" alt="Git"/></td>
+    <td align="center"><img src="assets/github.png" style="background-color: white; border-radius: 50%; width: 50px; margin: 10px;" alt="GitHub"/></td>
+    <td align="center"><img src="assets/docker.png" style="width: 50px; margin: 10px;" alt="Docker"/></td>
+    <td align="center"><img src="assets/linux.png" style="width: 50px; margin: 10px;" alt="Linux"/></td>
+    <td align="center"><img src="assets/html.png" style="width: 50px; margin: 10px;" alt="HTML"/></td>
+    <td align="center"><img src="assets/css.png" style="width: 50px; margin: 10px;" alt="CSS"/></td>
+  </tr>
+</table>
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=nico-maire&show_icons=true&theme=tokyonight" alt="Nico's GitHub Stats" />
