@@ -25,13 +25,13 @@
     <td style="border: none; padding: 10px;">
       <a href="https://www.linkedin.com/in/nicol%C3%A1s-maire-bravo/" style="text-decoration: none; color: inherit; display: flex; align-items: center;">
         <img src="assets/linkedin.png" width="40" alt="LinkedIn" style="margin-right: 10px;">
-        <span style="text-align: left;"><b>LinkedIn</b><br><code>/in/nico-maire</code></span>
+        <span style="text-align: left;"><b>LinkedIn</b><br><code>/in/nicolás-maire-bravo</code></span>
       </a>
     </td>
     <td style="border: none; padding: 10px;">
       <a href="mailto:nico.maibra@gmail.com" style="text-decoration: none; color: inherit; display: flex; align-items: center;">
         <img src="assets/email.png" width="40" alt="Email" style="margin-right: 10px;">
-        <span style="text-align: left;"><b>Email</b><br><code>tu-email@gmail.com</code></span>
+        <span style="text-align: left;"><b>Email</b><br><code>nico.maibra@gmail.com</code></span>
       </a>
     </td>
   </tr>
