@@ -7,10 +7,10 @@
 <p>I'm a Computer Science student at UC3M (soon at Università di Bologna!) with a passion for AI, Cybersecurity, and building innovative solutions. From low-level systems in C to advanced AI automation with VIA, I love tackling complex problems.</p>
 
 <div align="center" style="margin: 30px 0;">
+  <p style="font-size: 16px; color: #aaa; margin-bottom: 10px;">Mis proyectos, galerías de imágenes y detalles técnicos están aquí:</p>
   <a href="https://nico-maire.github.io" style="background-color:#007BFF; color:white; padding: 15px 30px; border-radius: 10px; text-decoration: none; font-weight: bold; font-size: 20px; border: 2px solid #0056b3; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
-    👇 🚀 Haz clic aquí para ver mis Proyectos y Portfolio Interactivo 🚀 👇
+     Ver mi Portfolio Interactivo 🚀
   </a>
-  <p style="font-size: 14px; color: #888; margin-top: 10px;">(¡Ahí es donde están los detalles, las imágenes y el diseño interactivo!)</p>
 </div>
 
 <hr>
@@ -26,39 +26,37 @@
   </a>
 </p>
 
-<table width="100%" style="border: none;">
-  <tr>
-    <td width="50%" valign="top" style="padding: 10px;">
-      <h3 align="center">🌎 Idiomas</h3>
-      <ul style="list-style-type: none; padding-left: 0; text-align: center;">
-        <li style="font-size: 16px; margin-bottom: 10px;">🇪🇸 <b>Español</b> (Nativo)</li>
-        <li style="font-size: 16px; margin-bottom: 10px;">🇬🇧 <b>Inglés</b> (C1 Certified)</li>
-        <li style="font-size: 16px; margin-bottom: 10px;">🇨🇳 <b>Chino</b> (HSK3 / Cursando HSK5)</li>
-        <li style="font-size: 16px; margin-bottom: 10px;">🇫🇷 <b>Francés</b> (Nivel Medio)</li>
-        <li style="font-size: 16px; margin-bottom: 10px;">🇮🇹 <b>Italiano</b> (Nivel Medio)</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top" style="padding: 10px;">
-      <h3 align="center">💻 Tecnologías Clave</h3>
-      <div align="center">
-        <b>IA & Automatización:</b><br/>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-        <img src="https://img.shields.io/badge/Hugging Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
-        <img src="https://img.shields.io/badge/n8n-121212?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
-        <br/><br/>
-        <b>Sistemas & Ciberseguridad:</b><br/>
-        <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C"/>
-        <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
-        <img src="https://img.shields.io/badge/Crypto-007BFF?style=for-the-badge" alt="Crypto"/>
-        <br/><br/>
-        <b>Web & Móvil:</b><br/>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-        <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
-      </div>
-    </td>
-  </tr>
-</table>
+<h3 align="center">🌎 Idiomas</h3>
+<div align="center">
+  <ul style="list-style-type: none; padding-left: 0; display: inline-block; text-align: left;">
+    <li style="font-size: 16px; margin-bottom: 10px;">🇪🇸 <b>Español</b> (Nativo)</li>
+    <li style="font-size: 16px; margin-bottom: 10px;">🇬🇧 <b>Inglés</b> (C1 Certified - Cambridge)</li>
+    <li style="font-size: 16px; margin-bottom: 10px;">🇨🇳 <b>Chino</b> (HSK3 / Cursando HSK5)</li>
+    <li style="font-size: 16px; margin-bottom: 10px;">🇫🇷 <b>Francés</b> (Nivel Medio)</li>
+    <li style="font-size: 16px; margin-bottom: 10px;">🇮🇹 <b>Italiano</b> (Nivel Medio)</li>
+  </ul>
+</div>
+
+<h3 align="center">💻 Tecnologías Clave</h3>
+<div align="center" style="line-height: 2;">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnubash&logoColor=white" alt="Shell"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
+  <img src="https://img.shields.io/badge/n8n-121212?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+</div>
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=nico-maire&show_icons=true&theme=tokyonight" alt="Nico's GitHub Stats" />
