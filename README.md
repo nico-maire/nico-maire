@@ -15,47 +15,44 @@
 
 <hr>
 
-<p><b>Or find me here:</b></p>
-
-<p>
-  <a href="https://linkedin.com/in/TU-PERFIL-DE-LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="mailto:TU-EMAIL-PROFESIONAL@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
-  </a>
-</p>
-
-<h3 align="center">🌎 Idiomas</h3>
+<h2 align="center">📫 Connect with Me</h2>
 <div align="center">
-  <ul style="list-style-type: none; padding-left: 0; display: inline-block; text-align: left;">
-    <li style="font-size: 16px; margin-bottom: 10px;">🇪🇸 <b>Español</b> (Nativo)</li>
-    <li style="font-size: 16px; margin-bottom: 10px;">🇬🇧 <b>Inglés</b> (C1 Certified - Cambridge)</li>
-    <li style="font-size: 16px; margin-bottom: 10px;">🇨🇳 <b>Chino</b> (HSK3 / Cursando HSK5)</li>
-    <li style="font-size: 16px; margin-bottom: 10px;">🇫🇷 <b>Francés</b> (Nivel Medio)</li>
-    <li style="font-size: 16px; margin-bottom: 10px;">🇮🇹 <b>Italiano</b> (Nivel Medio)</li>
-  </ul>
+  <a href="https://linkedin.com/in/nico-maire">
+    <img src="assets/linkedin.png" width="50px" style="margin: 10px;" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:tu-email-profesional@gmail.com">
+    <img src="assets/email.png" width="50px" style="margin: 10px;" alt="Email"/>
+  </a>
 </div>
 
-<h3 align="center">💻 Tecnologías Clave</h3>
-<div align="center" style="line-height: 2;">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+<h2 align="center">🌎 Languages</h2>
+<div align="center">
+  <img src="assets/flag_es.png" width="50px" style="margin: 10px;" alt="Spanish"/>
+  <img src="assets/flag_uk.png" width="50px" style="margin: 10px;" alt="English"/>
+  <img src="assets/flag_cn.png" width="50px" style="margin: 10px;" alt="Chinese"/>
+  <img src="assets/flag_fr.png" width="50px" style="margin: 10px;" alt="French"/>
+  <img src="assets/flag_it.png" width="50px" style="margin: 10px;" alt="Italian"/>
+</div>
+
+<h2 align="center">💻 Skills</h2>
+<div align="center" style="line-height: 2.5;">
+  <img src="assets/python.png" width="50px" style="margin: 10px;" alt="Python"/>
+  <img src="assets/c.png" width="50px" style="margin: 10px;" alt="C"/>
+  <img src="assets/cpp.png" width="50px" style="margin: 10px;" alt="C++"/>
+  <img src="assets/javascript.png" width="50px" style="margin: 10px;" alt="JavaScript"/>
+  <img src="assets/react.png" width="50px" style="margin: 10px;" alt="React"/>
   <br/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnubash&logoColor=white" alt="Shell"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="assets/git.png" width="50px" style="margin: 10px;" alt="Git"/>
+  <img src="assets/github.png" width="50px" style="margin: 10px;" alt="GitHub"/>
+  <img src="assets/linux.png" width="50px" style="margin: 10px;" alt="Linux"/>
+  <img src="assets/html.png" width="50px" style="margin: 10px;" alt="HTML"/>
   <br/>
-  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
-  <img src="https://img.shields.io/badge/n8n-121212?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="assets/css.png" width="50px" style="margin: 10px;" alt="CSS"/>
+  <img src="assets/huggingface.png" width="50px" style="margin: 10px;" alt="Hugging Face"/>
+  <img src="assets/flutter.png" width="50px" style="margin: 10px;" alt="Flutter"/>
+  <img src="assets/n8n.png" width="50px" style="margin: 10px;" alt="n8n"/>
+  <img src="assets/fastapi.png" width="50px" style="margin: 10px;" alt="FastAPI"/>
+  <img src="assets/celonis.png" width="50px" style="margin: 10px;" alt="Celonis"/>
 </div>
 
 <p>
