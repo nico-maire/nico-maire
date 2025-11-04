@@ -5,7 +5,7 @@
     </td>
     <td valign="top">
       <h1>Nico Maibra</h1>
-      <h3>Ingeniero de Software | Especialista en IA & Ciberseguridad</h3>
+      <h3>Computer Science Student | Developer & AI/Cybersecurity Enthusiast</h3>
       <p>
         <a href="https://www.linkedin.com/in/nicol%C3%A1s-maire-bravo/" target="_blank">
           <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -23,10 +23,10 @@
   </tr>
 </table>
 
-## 🚀 Mi Stack Tecnológico
+## 🚀 My Tech Stack
 
 <details>
-  <summary><b>🤖 IA & Automatización</b></summary>
+  <summary><b>🤖 AI & Automation</b></summary>
   <br/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
@@ -36,7 +36,7 @@
 </details>
 
 <details>
-  <summary><b>🛡️ Ciberseguridad & Sistemas</b></summary>
+  <summary><b>🛡️ Cybersecurity & Systems</b></summary>
   <br/>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
@@ -47,7 +47,7 @@
 </details>
 
 <details>
-  <summary><b>🌐 Desarrollo Web & Móvil</b></summary>
+  <summary><b>🌐 Web & Mobile Development</b></summary>
   <br/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
