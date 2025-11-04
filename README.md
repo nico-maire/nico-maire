@@ -282,3 +282,39 @@
     </td>
   </tr>
 </table>
+
+---
+
+## 🎓 Certifications & Key Achievements
+
+<ul>
+  <li><b>CS50's Introduction to Databases with SQL</b> | Harvard University (HarvardX)</li>
+  <li><b>Elements of AI (Introduction & Building AI)</b> | University of Helsinki</li>
+  <li><b>C1 Advanced (Certificate in Advanced English)</b> | Cambridge English</li>
+  <li><b>Finalist, XIV Madrid Economics Olympiad</b> | Universidad Carlos III de Madrid (UC3M)</li>
+</ul>
+
+---
+
+## 📊 My GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nico-mair&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nico-mair&layout=compact&theme=tokyonight" alt="Top Languages"/>
+</p>
+
+---
+
+## 📫 Contact Me
+
+Feel free to reach out or connect! I'm always open to new opportunities and interesting conversations.
+
+<p>
+  <a href="https://www.linkedin.com/in/nicol%C3%A1s-maire-bravo/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:nico.maibra@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
