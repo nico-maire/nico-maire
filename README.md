@@ -5,12 +5,12 @@
 <h3>Computer Science Student | Developer & AI/Cybersecurity Enthusiast</h3>
 
 <p align="center">
-  I'm a Computer Science student at UC3M (soon at Università di Bologna!) with a passion for building my own projects and exploring new fields.
+  I'm a Computer Science student at UC3M and Università di Bologna (exhange program) with a passion for building my own projects and exploring new fields.
   <br/>
-  I believe in creating my own tools and turning ideas into reality, following the motto:
+  I believe in creating my own tools and turning ideas into reality, following the belief:
 </p>
 <blockquote align="center">
-  <i>"No sueñes con proyectos. Commitea y hazlos correr."</i>
+<i>"Your idea. Your code. Your reality"</i>
 </blockquote>
 
 <div align="center" style="margin: 20px 0;">
@@ -26,13 +26,13 @@
 <table align="center" style="border: none; width: auto;">
   <tr style="border: none;">
     <td style="border: none; padding: 10px;">
-      <a href="https://linkedin.com/in/nico-maire" style="text-decoration: none; color: inherit; display: flex; align-items: center;">
+      <a href="https://www.linkedin.com/in/nicol%C3%A1s-maire-bravo/" style="text-decoration: none; color: inherit; display: flex; align-items: center;">
         <img src="assets/linkedin.png" width="40" alt="LinkedIn" style="margin-right: 10px;">
         <span style="text-align: left;"><b>LinkedIn</b><br><code>/in/nico-maire</code></span>
       </a>
     </td>
     <td style="border: none; padding: 10px;">
-      <a href="mailto:tu-email-profesional@gmail.com" style="text-decoration: none; color: inherit; display: flex; align-items: center;">
+      <a href="mailto:nico.maibra@gmail.com" style="text-decoration: none; color: inherit; display: flex; align-items: center;">
         <img src="assets/email.png" width="40" alt="Email" style="margin-right: 10px;">
         <span style="text-align: left;"><b>Email</b><br><code>tu-email@gmail.com</code></span>
       </a>
@@ -74,7 +74,7 @@
 <h2 align="center">💻 Skills</h2>
 <table align="center" style="border: none; width: auto;">
   <tr style="border: none;">
-    <td colspan="6" align="center" style="border: none;"><h3>Lenguajes</h3></td>
+    <td colspan="6" align="center" style="border: none;"><h3>Programming languages</h3></td>
   </tr>
   <tr style="border: none;">
     <td style="border: none; padding: 10px;" align="center"><img src="assets/python.png" width="50" alt="Python"></td>
