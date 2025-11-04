@@ -13,7 +13,7 @@
 <i>"Your idea. Your code. Your reality"</i>
 </blockquote>
 
-<div align="center" style="margin: 15px 0;">
+<div align="center" style="margin: 5px 0;">
   <a href="https://nico-maire.github.io">
     <img src="assets/button.png" width="300" alt="Ver mi Portfolio Interactivo"/>
   </a>
