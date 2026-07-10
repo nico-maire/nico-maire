@@ -115,11 +115,3 @@
     <td style="border: none; padding: 10px;" align="center"></td>
   </tr>
 </table>
-
-<h2 align="center">📊 GitHub Stats</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nico-maire&show_icons=true&theme=tokyonight" alt="Nico's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nico-maire&layout=compact&theme=tokyonight" alt="Nico's Top Languages" />
-</p>
-
-</div>
