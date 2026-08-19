@@ -5,7 +5,7 @@
 <h3>Computer Science Student | Developer & AI/Cybersecurity Enthusiast</h3>
 
 <p align="center">
-  I'm a Computer Science student at UC3M and Università di Bologna (exhange program) with a passion for building my own projects and exploring new fields.
+  I'm a Computer Science student at UC3M, exchange student at Università di Bologna and Universidad Argentina De la Empresa (UADE) with a passion for building my own projects and exploring new fields.
   <br/>
   I believe in creating my own tools and turning ideas into reality, following the belief:
 </p>
