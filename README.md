@@ -1,117 +1,34 @@
 <div align="center">
 
-# Hi, I'm Nicolás Maire Bravo! 👋
+<a href="https://nico-maire.github.io/"><img src="assets/readme/hero.svg" width="100%" alt="NicOS. Nicolás Maire Bravo: Computer Science student at UC3M, AI and cybersecurity, full-stack developer, founder of CitaSalon. Open to work. Click to power on my interactive portfolio."></a>
 
-<h3>Computer Science Student | Developer & AI/Cybersecurity Enthusiast</h3>
+<a href="https://nico-maire.github.io/"><img src="assets/readme/nicos-desktop.gif" width="73%" alt="The portfolio on a computer: an office, the power button, the BIOS boot and the NicOS desktop with projects, a terminal and phosphor colour themes"></a>
+<a href="https://nico-maire.github.io/"><img src="assets/readme/nicos-phone.gif" width="23%" alt="The portfolio on a phone: a Nokia-style green LCD with menus"></a>
 
-<p align="center">
-  I'm a Computer Science student at UC3M, exchange student at Università di Bologna and Universidad Argentina De la Empresa (UADE) with a passion for building my own projects and exploring new fields.
-  <br/>
-  I believe in creating my own tools and turning ideas into reality, following the belief:
-</p>
-<blockquote align="center">
-<i>"Your idea. Your code. Your reality"</i>
-</blockquote>
+<sub>🖥️ <b>On a computer</b>, walk into my office and switch on the PC &nbsp;·&nbsp; 📱 <b>On a phone</b>, it turns into a Nokia</sub>
 
-<div align="center" style="margin: 5px 0;">
-  <a href="https://nico-maire.github.io">
-    <img src="assets/button.png" width="300" alt="Ver mi Portfolio Interactivo"/>
-  </a>
+<br>
+
+<a href="https://nico-maire.github.io/"><img src="assets/readme/boot-button.svg" width="540" alt="Press power: enter NicOS at nico-maire.github.io"></a>
+
+<br>
+
+<sub>…or double-click straight into a folder</sub>
+
+<a href="https://nico-maire.github.io/#/open/projects"><img src="assets/readme/icon-projects.svg" width="104" alt="Projects"></a>
+<a href="https://nico-maire.github.io/#/open/skills"><img src="assets/readme/icon-skills.svg" width="104" alt="Skills"></a>
+<a href="https://nico-maire.github.io/#/open/terminal"><img src="assets/readme/icon-terminal.svg" width="104" alt="Terminal"></a>
+<a href="https://nico-maire.github.io/#/open/cv"><img src="assets/readme/icon-cv.svg" width="104" alt="CV"></a>
+<a href="https://nico-maire.github.io/#/open/contact"><img src="assets/readme/icon-contact.svg" width="104" alt="Contact"></a>
+
+<br>
+
+<a href="https://nico-maire.github.io/?lang=es"><kbd>ES</kbd></a>
+<a href="https://nico-maire.github.io/?lang=en"><kbd>EN</kbd></a>
+<a href="https://nico-maire.github.io/?lang=it"><kbd>IT</kbd></a>
+<a href="https://nico-maire.github.io/?lang=fr"><kbd>FR</kbd></a>
+<a href="https://nico-maire.github.io/?lang=zh"><kbd>中文</kbd></a>
+&nbsp;·&nbsp;
+<sub>In a hurry?</sub> <a href="https://nico-maire.github.io/#/quick"><kbd>Quick view</kbd></a>
+
 </div>
-
-<h2 align="center">📫 Connect with Me</h2>
-<table align="center" style="border: none; width: auto;">
-  <tr style="border: none;">
-    <td style="border: none; padding: 10px;">
-      <a href="https://www.linkedin.com/in/nicol%C3%A1s-maire-bravo/" style="text-decoration: none; color: inherit; display: flex; align-items: center;">
-        <img src="assets/linkedin.png" width="40" alt="LinkedIn" style="margin-right: 10px;">
-        <span style="text-align: left;"><b>LinkedIn</b><br><code>/in/nicolás-maire-bravo</code></span>
-      </a>
-    </td>
-    <td style="border: none; padding: 10px;">
-      <a href="mailto:nico.maibra@gmail.com" style="text-decoration: none; color: inherit; display: flex; align-items: center;">
-        <img src="assets/email.png" width="40" alt="Email" style="margin-right: 10px;">
-        <span style="text-align: left;"><b>Email</b><br><code>nico.maibra@gmail.com</code></span>
-      </a>
-    </td>
-  </tr>
-</table>
-
-<h2 align="center">🌎 Languages</h2>
-<table align="center" style="border: none; width: auto;">
-  <tr style="border: none;">
-    <td style="border: none; padding: 15px;" align="center">
-      <img src="assets/flag_es.png" width="50" alt="Spanish"><br>
-      <b>Español</b><br>
-      <i>Nativo</i>
-    </td>
-    <td style="border: none; padding: 15px;" align="center">
-      <img src="assets/flag_uk.png" width="50" alt="English"><br>
-      <b>Inglés</b><br>
-      <i>C1 Certified</i>
-    </td>
-    <td style="border: none; padding: 15px;" align="center">
-      <img src="assets/flag_cn.png" width="50" alt="Chinese"><br>
-      <b>Chino</b><br>
-      <i>HSK3 / Cursado HSK5</i>
-    </td>
-    <td style="border: none; padding: 15px;" align="center">
-      <img src="assets/flag_fr.png" width="50" alt="French"><br>
-      <b>Francés</b><br>
-      <i>Nivel Medio</i>
-    </td>
-    <td style="border: none; padding: 15px;" align="center">
-      <img src="assets/flag_it.png" width="50" alt="Italian"><br>
-      <b>Italiano</b><br>
-      <i>Nivel Medio</i>
-    </td>
-  </tr>
-</table>
-
-<h2 align="center">💻 Skills</h2>
-<table align="center" style="border: none; width: auto;">
-  <tr style="border: none;">
-    <td colspan="6" align="center" style="border: none;"><h3>Programming languages</h3></td>
-  </tr>
-  <tr style="border: none;">
-    <td style="border: none; padding: 10px;" align="center"><img src="assets/python.png" width="50" alt="Python"></td>
-    <td style="border: none; padding: 10px;" align="center"><img src="assets/c.png" width="50" alt="C"></td>
-    <td style="border: none; padding: 10px;" align="center"><img src="assets/cpp.png" width="50" alt="C++"></td>
-    <td style="border: none; padding: 10px;" align="center"><img src="assets/javascript.png" width="50" alt="JavaScript"></td>
-    <td style="border: none; padding: 10px;" align="center"><img src="assets/react.png" width="50" alt="React"></td>
-    <td style="border: none; padding: 10px;" align="center"><img src="assets/rstudio.png" width="50" alt="R Studio"></td>
-  </tr>
-  <tr style="border: none;">
-    <td colspan="6" align="center" style="border: none;"><h3>Web & Bases de Datos</h3></td>
-  </tr>
-  <tr style="border: none;">
-    <td style="border: none; padding: 10px;" align="center"></td>
-    <td style="border: none; padding: 10px;" align="center"><img src="assets/html.png" width="50" alt="HTML"></td>
-    <td style="border: none; padding: 10px;" align="center"><img src="assets/css.png" width="50" alt="CSS"></td>
-    <td style="border: none; padding: 10px;" align="center"><img src="assets/mysql.png" width="50" alt="MySQL"></td>
-    <td style="border: none; padding: 10px;" align="center"><img src="assets/postgresql.png" width="50" alt="PostgreSQL"></td>
-    <td style="border: none; padding: 10px;" align="center"></td>
-  </tr>
-  <tr style="border: none;">
-    <td colspan="6" align="center" style="border: none;"><h3>Herramientas & Frameworks</h3></td>
-  </tr>
-  <tr style="border: none;">
-    <td style="border: none; padding: 10px;" align="center"></td>
-    <td style="border: none; padding: 10px;" align="center"><img src="assets/huggingface.png" width="50" alt="Hugging Face"></td>
-    <td style="border: none; padding: 10px;" align="center"><img src="assets/n8n.png" width="50" alt="n8n" style="background-color: white; border-radius: 10px; padding: 5px;"></td>
-    <td style="border: none; padding: 10px;" align="center"><img src="assets/fastapi.png" width="50" alt="FastAPI" style="background-color: white; border-radius: 10px; padding: 5px;"></td>
-    <td style="border: none; padding: 10px;" align="center"><img src="assets/flutter.png" width="50" alt="Flutter"></td>
-    <td style="border: none; padding: 10px;" align="center"><img src="assets/celonis.png" width="50" alt="Celonis"></td>
-  </tr>
-  <tr style="border: none;">
-    <td colspan="6" align="center" style="border: none;"><h3>Sistemas & DevOps</h3></td>
-  </tr>
-  <tr style="border: none;">
-    <td style="border: none; padding: 10px;" align="center"></td>
-    <td style="border: none; padding: 10px;" align="center"><img src="assets/git.png" width="50" alt="Git"></td>
-    <td style="border: none; padding: 10px;" align="center"><img src="assets/github.png" width="50" alt="GitHub" style="background-color: white; border-radius: 10px; padding: 5px;"></td>
-    <td style="border: none; padding: 10px;" align="center"><img src="assets/linux.png" width="50" alt="Linux"></td>
-    <td style="border: none; padding: 10px;" align="center"><img src="assets/docker.png" width="50" alt="Docker"></td>
-    <td style="border: none; padding: 10px;" align="center"></td>
-  </tr>
-</table>
